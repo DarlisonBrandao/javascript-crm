@@ -11,8 +11,6 @@ function mostrarOverlay(){
     overlayElement.classList.add("invisible,opacity-0")
     gavetaElement.classList.add("-right-full");
     gavetaElement.classList.remove("right-0");
-
-
     
   }
   
